@@ -52,7 +52,7 @@ public class Users {
         this.telegram = telegram;
     }
     public void setMobile(String mobile) {
-        this.telegram = telegram;
+        this.mobile = mobile;
     }
 
     @Override
